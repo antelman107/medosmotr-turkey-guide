@@ -113,7 +113,7 @@
 3. Консилиум пишет заключение.
 4. Иногда консилиум запрашивает дополнительные мнения врачей (нужно выйти и пройти их).
 
-После завершения консилиума в течение примерно **10 дней** отчет должен появиться в `e-Devlet`.
+После завершения консилиума в течение примерно **10 дней** отчет должен появиться в `e-Devlet`: [e-İmzalı Durum Bildirir Sağlık Kurulu Raporları Sorgulama](https://www.turkiye.gov.tr/saglik-e-imzali-durum-bildirir-saglik-kurulu-raporlari-sorgulama).
 
 ---
 
